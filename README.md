@@ -1,7 +1,9 @@
-# 👋 Salut, moi c'est Marcky.
+<h1 align="center">👋 Salut, moi c'est Marcky.</h1>
 
+<p align="center">
 🎓 Développeur web / logiciel  
-💻 Passionné par le développement et les nouvelles technologies  
+💻 Passionné par le développement et les nouvelles technologies 
+</p>
 
 ## 🚀 Stack & Outils
 
