@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c'est Marcky.</h1>
 
 <p>
-🎓 Développeur Full Satck / logiciel / mobile </br> 
+🎓 Développeur Full Satck / Logiciel / Mobile </br> 
 💻 Passionné par le développement et les nouvelles technologies 
 </p>
 
